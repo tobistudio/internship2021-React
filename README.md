@@ -1,14 +1,10 @@
-## Getting Started
+## Welcome
+Hello interns!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Here are examples of the benchmark principles I have presented to you.
 
-## Folder Structure
+For **Java**, please navigate to
+`internship2021-demos/src` and open it in your IDE of choice
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+For **React**, please navigate to
+`TBD`
