@@ -1,0 +1,15 @@
+.todo-item__container {
+    margin-bottom: 6px;
+    padding: 5px 20px;
+    overflow-wrap: break-word;
+    background-color: #d3f3e38e;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+    font-style: italic;
+    color: gray;
+    background-color: #c3e9e9;
+}

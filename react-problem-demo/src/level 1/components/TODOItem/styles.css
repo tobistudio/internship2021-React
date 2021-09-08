@@ -1,0 +1,8 @@
+.todo-item__container {
+    margin-bottom: 6px; /* puts some space after each task */
+    padding: 5px 20px; /* text positioning within the container */
+    overflow-wrap: break-word; /* if the text is larger than one row, continues on new row */
+    background-color: #d3f3e38e;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 5px; /* gives a bit of a rounded look */
+}
